@@ -60,7 +60,8 @@
 - Si pierde todas las vidas en la linea de vida pierde el juego.
 
 ### Bosquejo
-![image](https://user-images.githubusercontent.com/80369054/200085047-cc5f257e-e138-475a-b46a-e349518efa33.png)
+![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/b93e7ede-0040-4f1c-97bf-e505f84f891c)
+
 
 ## Código Fuente
 
@@ -95,12 +96,12 @@
   * > [Quiz 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
-  * >[Alien al escape](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
-  * >[Despliegue Alien al escape](https://joann-rs.itch.io/alien)
+  * >[DemonSchoolKiller](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
 
 ## Planificación
 
-![image](https://user-images.githubusercontent.com/80369054/205413189-417abfa3-9284-46df-8804-7307365b9739.png)
+![Imagen1](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/7eba2009-9aad-42da-96ce-062e3612025c)
+
 
 ## Autores
 #### Guerrero Rodriguez Itzel Juliza
