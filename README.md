@@ -16,9 +16,9 @@
 ### Nombre del proyecto
 - Demon School Killer
 ### Objetivo: 
-“Painkiller” una organización dedicada a erradicar estas amenzazas usando conocimientos de brujería y demonios para el bien.  
+“Painkiller” tiene que atacar a los demonios para salvar la universidad.  
 ### Plataforma: 
-- PC Windows
+- 
 ### Género:
 - ​Acción, terror y aventura. 
 ### Clasificación:
@@ -43,7 +43,7 @@
 
 ### Musicalización
 - Sonido de fondo durante el juego.
-- Sonido de disparo cuando atrapen al jugador.
+- Sonido de golpes cuando ataquen.
 - Sonido de muerte cuando el jugador pierda.
 
 ### Reglas de Juego
