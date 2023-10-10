@@ -1,6 +1,7 @@
 # Creación de Videojuegos
 
-![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/093d1b97-6441-4ec4-8683-21b9ae46789a)
+![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/17cd5a3f-b3dc-4664-9562-34f575ac531b)
+
 
 ## Contenido
 
