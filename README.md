@@ -2,15 +2,6 @@
 <p align="center">
     <img src="https://cdn-3.expansion.mx/dims4/default/ab63ee3/2147483647/strip/true/crop/3864x2576+0+0/resize/1200x800!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F38%2F425ea19f487680315036da9ef5f3%2Fistock-1334436084.jpg" alt="Logo" width=1200 height=300>
 
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
-
 
 ## Contenido
 
@@ -64,39 +55,40 @@
 
 
 ## Código Fuente
+* > [Código del Videojuego ](https://github.com/FatimaRuiz123/DemonSchoolKiller)
 
 * Lección 1
-  * > [Tutorial 1 - Player Control ](https://github.com/Unity-UNTG-Videojuegos/Leccion1/tree/main/Assets)
-  * > [Laboratorio 1 - Project Design Document ](https://github.com/Unity-UNTG-Videojuegos/Leccion1_Laboratorio/blob/main/Project%20Design%20Doc%20%5BWORD%5D.docx)
-  * > [Desafío 1 - Plane Programming ](https://github.com/Unity-UNTG-Videojuegos/Leccion1_Challenge/tree/main/Assets)
-  * > [Video 1 - Plane Programming](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
-  * > [Quiz 1](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
+  * > [Tutorial 1 - Player Control ]()
+  * > [Laboratorio 1 - Project Design Document ]()
+  * > [Desafío 1 - Plane Programming ]()
+  * > [Video 1 - Plane Programming]()
+  * > [Quiz 1]()
 * Lección 2
-  * > [Tutorial 2 - Basic Gameplay](https://github.com/Unity-UNTG-Videojuegos/Leccion2)
-  * > [Laboratorio 2 - New Project with Primitives](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Laboratorio-/tree/main/Assets)
-  * > [Desafío 2 - Play Fetch](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets)
-  * > [Video 2 - Play Fetch ](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
-  * > [Quiz 2](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
+  * > [Tutorial 2 - Basic Gameplay]()
+  * > [Laboratorio 2 - New Project with Primitives]()
+  * > [Desafío 2 - Play Fetch]()
+  * > [Video 2 - Play Fetch ]()
+  * > [Quiz 2]()
 * Lección 3
-  * > [Tutorial 3 - Sound and Effects](https://github.com/Desarrollo-de-videojuegos-9/Leccion3_U2/tree/main/Interface_Leccion3)
-  * > [Laboratorio 3 - Player Control](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio3_U2/tree/main/Laboratorio)
-  * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/Desarrollo-de-videojuegos-9/Challenge3_U2/tree/main/Interface_Challenge_3)
-  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1ftCgKBpSsHzFkITvioaH2SfL0-BkB77d/view?usp=sharing)
-  * > [Quiz 3](https://github.com/Desarrollo-de-videojuegos-9/Quiz3_U2/tree/main/Quiz)
+  * > [Tutorial 3 - Sound and Effects]()
+  * > [Laboratorio 3 - Player Control]()
+  * > [Desafío 3 - Balloons, Bombs, & Booleans]()
+  * > [Video 3 - Balloons, Bombs, & Booleans]()
+  * > [Quiz 3]()
 * Lección 4
-  * > [Tutorial 4 - Gameplay Mechanics](https://github.com/Desarrollo-de-videojuegos-9/Leccion04_U2)
-  * > [Laboratorio 4 - Basic Gameplay](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio04_U2)
-  * > [Desafío 4 - Soccer Scripting](https://github.com/Desarrollo-de-videojuegos-9/Challenge04_U2)
-  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/18UH5bZaiMXcz8taLIn4HENk4_7NNDqyN/view?usp=sharing)
-  * > [Quiz 4](https://github.com/Desarrollo-de-videojuegos-9/Quiz04_U2)
+  * > [Tutorial 4 - Gameplay Mechanics]()
+  * > [Laboratorio 4 - Basic Gameplay]()
+  * > [Desafío 4 - Soccer Scripting]()
+  * > [Video 4 - Soccer Scripting]()
+  * > [Quiz 4]()
 * Lección 5
-  * > [Tutorial 5 - User Interface](https://github.com/Desarrollo-de-videojuegos-9/Leccion5_U2/tree/main/Interface_Leccion5)
-  * > [Desafío 5 - Whack-a-Food](https://github.com/Desarrollo-de-videojuegos-9/Challenge5_U2)
-  * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1cmAdarikvx3tf324mNgluXONXftAbpCs/view?usp=sharing)
-  * > [Quiz 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
-  * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
+  * > [Tutorial 5 - User Interface]()
+  * > [Desafío 5 - Whack-a-Food]()
+  * > [Video 5 - Whack-a-Food]()
+  * > [Quiz 5]()
+  * > [Laboratorio 5 - Swap out yours Assets]()
 * VideoJuego
-  * >[DemonSchoolKiller](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
+  * >[DemonSchoolKiller]()
 
 ## Planificación
 
@@ -104,8 +96,8 @@
 
 
 ## Autores
-#### Guerrero Rodriguez Itzel Juliza
-#### Ruiz Rivera Fatima Natalia
+- Guerrero Rodriguez Itzel Juliza
+- Ruiz Rivera Fatima Natalia
 
 ## Copyright
 Derechos Reservados 2023
