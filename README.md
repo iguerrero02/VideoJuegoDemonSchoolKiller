@@ -58,7 +58,7 @@
 * > [Código del Videojuego ](https://github.com/FatimaRuiz123/DemonSchoolKiller)
 
 * Lección 2
-  * > [Tutorial 2 - Basic Gameplay]()
+  * > [Tutorial 2 - Basic Gameplay](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%201-Simple%20scene)
   * > [Desafío 2 - Play Fetch]()
   * > [Video 2 - Play Fetch ]()
   * > [Quiz 2]()
