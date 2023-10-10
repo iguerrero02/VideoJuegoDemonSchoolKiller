@@ -51,7 +51,7 @@
 - Si pierde todas las vidas en la linea de vida pierde el juego.
 
 ### Bosquejo
-![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/b93e7ede-0040-4f1c-97bf-e505f84f891c)
+
 
 
 ## Código Fuente
@@ -59,19 +59,16 @@
 
 * Lección 2
   * > [Tutorial 2 - Basic Gameplay]()
-  * > [Laboratorio 2 - New Project with Primitives]()
   * > [Desafío 2 - Play Fetch]()
   * > [Video 2 - Play Fetch ]()
   * > [Quiz 2]()
 * Lección 3
   * > [Tutorial 3 - Sound and Effects]()
-  * > [Laboratorio 3 - Player Control]()
   * > [Desafío 3 - Balloons, Bombs, & Booleans]()
   * > [Video 3 - Balloons, Bombs, & Booleans]()
   * > [Quiz 3]()
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics]()
-  * > [Laboratorio 4 - Basic Gameplay]()
   * > [Desafío 4 - Soccer Scripting]()
   * > [Video 4 - Soccer Scripting]()
   * > [Quiz 4]()
@@ -80,13 +77,14 @@
   * > [Desafío 5 - Whack-a-Food]()
   * > [Video 5 - Whack-a-Food]()
   * > [Quiz 5]()
-  * > [Laboratorio 5 - Swap out yours Assets]()
+ 
 * VideoJuego
   * >[DemonSchoolKiller]()
 
 ## Planificación
 
-![Imagen1](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/7eba2009-9aad-42da-96ce-062e3612025c)
+![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/5ea75f99-222b-43eb-ac26-30463b9e4a80)
+
 
 ## Enlace Trello
 * > [Trello ](https://trello.com/invite/b/l5PjVvWE/ATTIee97f9beae1cf8ea042d8df40553b949EDB2328D/planeacion)
