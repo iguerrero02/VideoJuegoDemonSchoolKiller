@@ -1,7 +1,6 @@
 # Creación de Videojuegos
-<p align="center">
-    <img src="https://cdn-3.expansion.mx/dims4/default/ab63ee3/2147483647/strip/true/crop/3864x2576+0+0/resize/1200x800!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F38%2F425ea19f487680315036da9ef5f3%2Fistock-1334436084.jpg" alt="Logo" width=1200 height=300>
 
+![image](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/093d1b97-6441-4ec4-8683-21b9ae46789a)
 
 ## Contenido
 
@@ -57,12 +56,6 @@
 ## Código Fuente
 * > [Código del Videojuego ](https://github.com/FatimaRuiz123/DemonSchoolKiller)
 
-* Lección 1
-  * > [Tutorial 1 - Player Control ]()
-  * > [Laboratorio 1 - Project Design Document ]()
-  * > [Desafío 1 - Plane Programming ]()
-  * > [Video 1 - Plane Programming]()
-  * > [Quiz 1]()
 * Lección 2
   * > [Tutorial 2 - Basic Gameplay]()
   * > [Laboratorio 2 - New Project with Primitives]()
@@ -94,7 +87,8 @@
 
 ![Imagen1](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/7eba2009-9aad-42da-96ce-062e3612025c)
 
-
+## Enlace Trello
+* > [Trello ](https://trello.com/invite/b/l5PjVvWE/ATTIee97f9beae1cf8ea042d8df40553b949EDB2328D/planeacion)
 ## Autores
 - Guerrero Rodriguez Itzel Juliza
 - Ruiz Rivera Fatima Natalia
