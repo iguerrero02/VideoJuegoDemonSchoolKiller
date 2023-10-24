@@ -67,7 +67,7 @@
   * > [Video 2 - Play Fetch ]()
   * > [Quiz 2]()
 * Lección 3
-  * > [Tutorial 3 - Sound and Effects]()
+  * > [Tutorial 3 - Sound and Effects](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans]()
   * > [Video 3 - Balloons, Bombs, & Booleans]()
   * > [Quiz 3]()
