@@ -63,8 +63,8 @@
 
 * Lección 2
   * > [Tutorial 2 - Basic Gameplay](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%201-Simple%20scene)
-  * > [Desafío 2 - Play Fetch]()
-  * > [Video 2 - Play Fetch ]()
+  * > [Desafío 2 - Play Fetch](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%202%20-%20Play%20Fetch)
+  * > [Video 2 - Play Fetch ](https://drive.google.com/file/d/1p7ZG7T6X5OzVEqPNsSFugTzhh24xt062/view?usp=sharing)
   * > [Quiz 2]()
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%203%20-%20Sound%20and%20Effects)
