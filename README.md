@@ -65,7 +65,7 @@
   * > [Tutorial 2 - Basic Gameplay](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%201-Simple%20scene)
   * > [Desafío 2 - Play Fetch](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%202%20-%20Play%20Fetch)
   * > [Video 2 - Play Fetch ](https://drive.google.com/file/d/1p7ZG7T6X5OzVEqPNsSFugTzhh24xt062/view?usp=sharing)
-  * > [Quiz 2]()
+  * > [Quiz 2](https://drive.google.com/file/d/1x3_xJydGRSpB9V8Pret3kMDxrqJQAQKy/view?usp=sharing)
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge3_Balloons_bombs_and_booleans/Assets)
@@ -74,7 +74,7 @@
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Lesson%204.1_Watch%20Where%20You%E2%80%99re%20Going)
   * > [Desafío 4 - Soccer Scripting](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%204_Soccer%20Scripting)
-  * > [Video 4 - Soccer Scripting]()
+  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1_j73OgEc0rwLqB4-5Tu-yrvVm7SPhZXu/view?usp=sharing)
   * > [Quiz 4]()
 * Lección 5
   * > [Tutorial 5 - User Interface](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%205%20-%20User%20interface)
