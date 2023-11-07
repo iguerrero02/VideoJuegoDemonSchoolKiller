@@ -77,8 +77,8 @@
   * > [Video 4 - Soccer Scripting]()
   * > [Quiz 4]()
 * Lección 5
-  * > [Tutorial 5 - User Interface]()
-  * > [Desafío 5 - Whack-a-Food]()
+  * > [Tutorial 5 - User Interface](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%205%20-%20User%20interface)
+  * > [Desafío 5 - Whack-a-Food](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%205%20-%20Whack-a-Food)
   * > [Video 5 - Whack-a-Food]()
   * > [Quiz 5]()
  
