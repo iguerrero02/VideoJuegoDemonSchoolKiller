@@ -69,7 +69,7 @@
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge3_Balloons_bombs_and_booleans/Assets)
-  * > [Video 3 - Balloons, Bombs, & Booleans]()
+  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1A3QahXMnLaYj8WWYyNNs1gcUfO9GYc0O/view?usp=sharing)
   * > [Quiz 3](https://drive.google.com/file/d/1Btl5q0RLqu33K8Mupds1q4xUw7Ty5ndX/view?usp=sharing)
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Lesson%204.1_Watch%20Where%20You%E2%80%99re%20Going)
