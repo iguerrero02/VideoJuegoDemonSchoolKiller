@@ -49,6 +49,9 @@
 - Si pierde todas las vidas en la linea de vida pierde el juego.
 
 ### Bosquejo
+![Imagen de WhatsApp 2023-09-21 a las 21 36 43_d9f8edd2](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/94832c25-6dbd-4ebc-80bd-8a50f77a7969)
+![Imagen de WhatsApp 2023-09-21 a las 21 37 00_f1db6182](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/45e71601-2ba6-47a6-9a41-4eabb7381d97)
+![Imagen de WhatsApp 2023-09-21 a las 21 37 01_c18f7821](https://github.com/iguerrero02/VideoJuegoDemonSchoolKiller/assets/93070552/4cdb6be4-f098-49a9-91ad-258b566e5b0f)
 
 
 
