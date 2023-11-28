@@ -19,7 +19,7 @@
 ### Objetivo: 
 “Painkiller” tiene que atacar a los demonios para salvar la universidad.  
 ### Plataforma: 
-- 
+- Movil, PC y Web
 ### Género:
 - ​Acción, terror y aventura. 
 ### Clasificación:
@@ -29,13 +29,11 @@
 - Aren (Águila Guía) 
 - ​Leonardo, Director de los Painkiller  
 #### Antagonistas:  
-- ​Jefe 1- Iris, demonio  
-- ​Jefe 2- Kai, demonio  
+- ​Jefe 1- Iris, demonio
 - ​Jefe final- Draco príncipe del inframundo 
 
 ### Escenario 
-- Nivel 1: Edificio(A)
-- ​Nivel 2: Edificio (B)
+- Nivel 1: Edificio(EE)
 - Nivel Final: Patio
 
 ### Historia
@@ -69,17 +67,17 @@
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge3_Balloons_bombs_and_booleans/Assets)
-  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1A3QahXMnLaYj8WWYyNNs1gcUfO9GYc0O/view?usp=sharing)
+  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1BgqZHRroEZZxIOsAp-OcPqW8czZ8VUZ8/view?usp=sharing)
   * > [Quiz 3](https://drive.google.com/file/d/1Btl5q0RLqu33K8Mupds1q4xUw7Ty5ndX/view?usp=sharing)
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Lesson%204.1_Watch%20Where%20You%E2%80%99re%20Going)
   * > [Desafío 4 - Soccer Scripting](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%204_Soccer%20Scripting)
   * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1_j73OgEc0rwLqB4-5Tu-yrvVm7SPhZXu/view?usp=sharing)
-  * > [Quiz 4]()
+  * > [Quiz 4](https://drive.google.com/file/d/1_j73OgEc0rwLqB4-5Tu-yrvVm7SPhZXu/view?usp=sharing)
 * Lección 5
   * > [Tutorial 5 - User Interface](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%205%20-%20User%20interface)
   * > [Desafío 5 - Whack-a-Food](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%205%20-%20Whack-a-Food)
-  * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1cqOA9isM0RxSgqmH9KH1_KGGGwEexBk-/view?usp=sharing)
+  * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1RclAmr2E5MhDPHCBPxJzP4wGwfDHuhac/view?usp=sharing)
   * > [Quiz 5](https://drive.google.com/file/d/16y2F05a_gTeayGP3niaLzl8_mROHwr-D/view?usp=sharing)
  
 * VideoJuego
