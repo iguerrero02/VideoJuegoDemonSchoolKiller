@@ -75,7 +75,7 @@
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Lesson%204.1_Watch%20Where%20You%E2%80%99re%20Going)
   * > [Desafío 4 - Soccer Scripting](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%204_Soccer%20Scripting)
-  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1_j73OgEc0rwLqB4-5Tu-yrvVm7SPhZXu/view?usp=sharing)
+  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1kfeBEExjSCIxFLNh02FLtMnTpH0MnX8w/view?usp=drive_link)
   * > [Quiz 4](https://drive.google.com/file/d/1_j73OgEc0rwLqB4-5Tu-yrvVm7SPhZXu/view?usp=sharing)
 * Lección 5
   * > [Tutorial 5 - User Interface](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Prototype%205%20-%20User%20interface)
