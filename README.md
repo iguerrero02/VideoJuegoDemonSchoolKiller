@@ -7,6 +7,7 @@
 
 - [Introducción](#)
 - [Código Fuente](#código-fuente)
+- [Despliegues](#despliegues)
 - [Planificación](#planificación)
 - [Autores](#autores)
 - [Copyright](#copyright)
@@ -82,9 +83,15 @@
   * > [Desafío 5 - Whack-a-Food](https://github.com/FatimaRuiz123/CursosUnityLearn/tree/master/Challenge%205%20-%20Whack-a-Food)
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1RclAmr2E5MhDPHCBPxJzP4wGwfDHuhac/view?usp=sharing)
   * > [Quiz 5](https://drive.google.com/file/d/16y2F05a_gTeayGP3niaLzl8_mROHwr-D/view?usp=sharing)
- 
-* VideoJuego
+
+ ## Despliegues
+* Codigo del VideoJuego
   * >[DemonSchoolKiller](https://github.com/FatimaRuiz123/DemonSchoolKiller)
+* Videojuego Web
+
+* Videojuego PC
+
+* Videojuego Movil
 
 ## Planificación
 
